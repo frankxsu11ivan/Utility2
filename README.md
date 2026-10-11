@@ -11,7 +11,7 @@ O22: 2064+00–2070+00
 O22: 2070+00–2076+00
 O23: 2076+00–2082+00
 O23: 2082+00–2088+00
-Exclude purple unknown utilities.
+Exclude purple unknown utilities..
 For communication, water, storm, and sanitary sewer, multiply each verified crossing by two potholes.
 For gas, electric, and HPS, record the crossing count and measure the utility length through the removal area at 5-foot spacing.
 
