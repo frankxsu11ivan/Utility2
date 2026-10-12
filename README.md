@@ -5,7 +5,7 @@ I can’t truthfully populate verified crossing counts from the current extracte
 
 I will not label inferred or estimated counts as verified. The required verification is:
 
-Count each distinct colored utility alignment that intersects the gray cut.
+Count each distinct colored utility alignment that intersects the gray cut..
 Separate counts by the four station ranges:
 O22: 2064+00–2070+00
 O22: 2070+00–2076+00
